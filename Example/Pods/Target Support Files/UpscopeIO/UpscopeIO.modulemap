@@ -1,0 +1,6 @@
+framework module UpscopeIO {
+  umbrella header "UpscopeIO-umbrella.h"
+
+  export *
+  module * { export * }
+}

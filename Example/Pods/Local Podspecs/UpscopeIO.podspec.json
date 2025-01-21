@@ -1,0 +1,22 @@
+{
+  "name": "UpscopeIO",
+  "version": "0.1.0",
+  "summary": "A short description of UpscopeIO.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Lena Soroka/UpscopeIO",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Lena Soroka": "4ta.lenasoroka.1989@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/Lena Soroka/UpscopeIO.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "UpscopeIO/Classes/**/*"
+}

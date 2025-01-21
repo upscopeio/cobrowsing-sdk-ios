@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '16.0'
+
+target 'UpscopeIO_Example' do
+  pod 'UpscopeIO', :path => '../'
+
+  target 'UpscopeIO_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

@@ -1,0 +1,16 @@
+PODS:
+  - UpscopeIO (0.1.0)
+
+DEPENDENCIES:
+  - UpscopeIO (from `../`)
+
+EXTERNAL SOURCES:
+  UpscopeIO:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  UpscopeIO: bdf6501ed98c39715e5f3e1610da6ab75e964dd3
+
+PODFILE CHECKSUM: 28a15311fb10c5ef704c9cb49e63084690b193c4
+
+COCOAPODS: 1.16.2
