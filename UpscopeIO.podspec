@@ -34,7 +34,7 @@ Pod::Spec.new do |s|
       "ios": "16.0"
   }
 
-  s.source_files = 'UpscopeIO/Source/**/*'
+  s.source_files = 'UpscopeIO/Sources/**/*'
   
   # s.resource_bundles = {
   #   'UpscopeIO' => ['UpscopeIO/Assets/*.png']
